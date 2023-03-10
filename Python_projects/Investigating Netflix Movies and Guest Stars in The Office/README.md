@@ -15,13 +15,13 @@ Entrada:
 
 Bibliotecas utilizadas:
 
-* MANIPULAÇÃO E PROCESSAMENTO DE DADOS
+** MANIPULAÇÃO E PROCESSAMENTO DE DADOS
 - pandas
 - numpy
 - empiricaldist import Pmf,Cdf
 - scipy
 - statsmodels
 
-* VISUALIZAÇÃO DE DADOS
+** VISUALIZAÇÃO DE DADOS
 - seaborn
 - matplotlib
